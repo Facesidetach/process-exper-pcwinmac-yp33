@@ -1,4 +1,4 @@
-# 
+# Premium Process Explorer plugins for Mac OS | Ultimate Process Explorer plugins for PC Windows. Featuring cpu tuning and scripting support — optimized for maximum performance on every platform.
 
 
 
